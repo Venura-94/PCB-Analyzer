@@ -1,5 +1,5 @@
-# NanoNetsPCBChecker
-# Deep Learning Assignment
+# PCBChecker
+# Deep Learning Assignment Project for Graduate Students
 PCB Component Defect Identification. Can you identify defect components on a PCB Board using Machine Learning/Deep Learning?
 
 ## Description
