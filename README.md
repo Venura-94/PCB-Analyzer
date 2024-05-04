@@ -140,6 +140,3 @@ No Errors
 2) Code quality (15%)
 3) Accuracy (10%)
 4) Bonus (25% extra)
-
-
-# Use ANY code tools technology and make ANY assumptions needed to complete the assignment on time
